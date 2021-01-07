@@ -1,0 +1,1 @@
+Start working on a branch before the previous has been commited to origin and merged to master.
